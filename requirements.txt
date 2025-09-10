@@ -1,6 +1,6 @@
+pygooglenews
 streamlit
 pandas
-pygooglenews
 python-dateutil
 together
 beautifulsoup4
